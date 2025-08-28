@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Lanre Lawal, a results-driven JavaScript Developer with a Bachelor of Engineering in Electrical and Electronics Engineering and a passion for technology. I'm currently focused on building my skills in web development, with a specific interest in creating dynamic and scalable web applications.
+I'm Lanre Lawal, a results-driven Software Developer with a love for technology. I'm currently focused on building my skills in web development, with a specific interest in creating dynamic and scalable web applications.
 
 - 🔭 I’m currently working on my personal portfolio website to showcase my skills.
 - 🌱 I’m currently learning Node.js, Express, and MongoDB to build full-stack web applications.
